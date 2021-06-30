@@ -2,7 +2,7 @@
 
 An online payment App.
 
-![alt text](https://www.dropbox.com/s/2nczwmqhd7rglkg/splash%20bava.png?dl=0)
+![alt text](lib/assets/ui/splash.png)
 ![alt text](https://www.dropbox.com/s/ien9vz9nfegvos8/Login%20bava.png?dl=0)
 ![alt text](https://www.dropbox.com/s/kq4jmb7gxkuozb3/Home%20bava.png?dl=0)
 ![alt text](https://www.dropbox.com/s/gck16v8gxbevolb/Details%20account.png?dl=0)
